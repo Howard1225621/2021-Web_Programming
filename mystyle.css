@@ -1,0 +1,22 @@
+div {
+	overflow-x:auto;
+}
+
+table{
+	border-collapse;
+	width:100%
+}
+
+th, td {
+	text-align:center;
+	padding: 12px;
+}
+
+p {
+	background-color : #FFC78E;
+	display: none;
+}
+
+div:hover p{
+	display: block;
+}
